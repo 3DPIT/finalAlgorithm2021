@@ -33,5 +33,14 @@
     <ClCompile Include="14502 연구소.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ss.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1107 리모컨.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
