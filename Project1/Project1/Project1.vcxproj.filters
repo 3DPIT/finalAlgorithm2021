@@ -51,5 +51,14 @@
     <ClCompile Include="1722 순열의 순서.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="순열,조합.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1476 날짜 계산.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1644 소수의 연속합.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
