@@ -40,6 +40,7 @@ int main() {
 		return 0;
 	}
 	while (L <= R && R <= m) {
+		cout << "L" << " " << L << " " << "R" << " " << R << " " << "Sum" << " " << sum << endl;
 		if (sum >=cm) {
 			sum -= v[L];
 			L++;
