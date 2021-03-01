@@ -30,8 +30,9 @@ void sumForArr() {//¹è¿­ ÇÕ
 	for (int i = 0; i < v1.size(); i++) {
 		long long low = lower_bound(v2.begin(), v2.end(), -v1[i]) - v2.begin();
 		long long high =upper_bound(v2.begin(), v2.end(), -v1[i]) - v2.begin();
+		if (low == v1.size())continue;
 		if (v1[i]+v2[low]==0) {
-			ret += (high -low);
+			cout << high << " " << low << endl;ret++;
 		}
 	}
 }
@@ -41,3 +42,9 @@ int main(void) {
 	cout << ret << endl;
 	return 0;
 }
+
+//4
+//1 2 3 - 5
+//5 3 4 2
+//- 3 - 4 2 1
+//- 1 5 - 3 - 1

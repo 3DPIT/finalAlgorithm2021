@@ -1,4 +1,12 @@
-﻿  7453 합이 0인 네 정수.cpp
-c:\users\oksos\desktop\study\finalalgorithm2021\project1\project1\7453 합이 0인 네 정수.cpp(30): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-c:\users\oksos\desktop\study\finalalgorithm2021\project1\project1\7453 합이 0인 네 정수.cpp(33): warning C4244: '인수': '__int64'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+﻿  2143 두 배열의 합.cpp
+c:\users\oksos\desktop\study\finalalgorithm2021\project1\project1\2143 두 배열의 합.cpp(16): warning C4477: 'scanf' : 서식 문자열 '%ld'에 'long *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 '__int64 *'입니다.
+  c:\users\oksos\desktop\study\finalalgorithm2021\project1\project1\2143 두 배열의 합.cpp(16): note: 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+  c:\users\oksos\desktop\study\finalalgorithm2021\project1\project1\2143 두 배열의 합.cpp(16): note: 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+c:\users\oksos\desktop\study\finalalgorithm2021\project1\project1\2143 두 배열의 합.cpp(17): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 '__int64 *'입니다.
+  c:\users\oksos\desktop\study\finalalgorithm2021\project1\project1\2143 두 배열의 합.cpp(17): note: 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+  c:\users\oksos\desktop\study\finalalgorithm2021\project1\project1\2143 두 배열의 합.cpp(17): note: 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+c:\users\oksos\desktop\study\finalalgorithm2021\project1\project1\2143 두 배열의 합.cpp(21): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 '__int64 *'입니다.
+  c:\users\oksos\desktop\study\finalalgorithm2021\project1\project1\2143 두 배열의 합.cpp(21): note: 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+  c:\users\oksos\desktop\study\finalalgorithm2021\project1\project1\2143 두 배열의 합.cpp(21): note: 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+c:\users\oksos\desktop\study\finalalgorithm2021\project1\project1\2143 두 배열의 합.cpp(46): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
   Project1.vcxproj -> C:\Users\oksos\Desktop\study\finalAlgorithm2021\Project1\Debug\Project1.exe
