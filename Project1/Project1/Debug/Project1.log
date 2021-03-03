@@ -1,5 +1,4 @@
-﻿  1205 부분수열의 합 2.cpp
-c:\users\oksos\desktop\study\finalalgorithm2021\project1\project1\1205 부분수열의 합 2.cpp(15): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\oksos\desktop\study\finalalgorithm2021\project1\project1\1205 부분수열의 합 2.cpp(46): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-c:\users\oksos\desktop\study\finalalgorithm2021\project1\project1\1205 부분수열의 합 2.cpp(47): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+﻿  2632 피자판매.cpp
+c:\users\oksos\desktop\study\finalalgorithm2021\project1\project1\2632 피자판매.cpp(79): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\oksos\desktop\study\finalalgorithm2021\project1\project1\2632 피자판매.cpp(87): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
   Project1.vcxproj -> C:\Users\oksos\Desktop\study\finalAlgorithm2021\Project1\Debug\Project1.exe
