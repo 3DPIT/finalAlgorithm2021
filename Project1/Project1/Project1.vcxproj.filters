@@ -90,5 +90,11 @@
     <ClCompile Include="2632 피자판매.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="6064 카잉달력.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10971 외판원 순회 2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
