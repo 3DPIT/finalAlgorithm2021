@@ -96,5 +96,8 @@
     <ClCompile Include="10971 외판원 순회 2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2607 비슷한 단어.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
