@@ -1,2 +1,8 @@
-﻿  15683 감시.cpp
+﻿  가비아2.cpp
+c:\users\oksos\desktop\finalalgorithm2021\project2\algorithm2021\algorithm2021\가비아2.cpp(25): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\oksos\desktop\finalalgorithm2021\project2\algorithm2021\algorithm2021\가비아2.cpp(31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\oksos\desktop\finalalgorithm2021\project2\algorithm2021\algorithm2021\가비아2.cpp(36): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\oksos\desktop\finalalgorithm2021\project2\algorithm2021\algorithm2021\가비아2.cpp(48): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\oksos\desktop\finalalgorithm2021\project2\algorithm2021\algorithm2021\가비아2.cpp(57): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\oksos\desktop\finalalgorithm2021\project2\algorithm2021\algorithm2021\가비아2.cpp(77): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
   Algorithm2021.vcxproj -> C:\Users\oksos\Desktop\finalAlgorithm2021\Project2\Algorithm2021\Debug\Algorithm2021.exe
