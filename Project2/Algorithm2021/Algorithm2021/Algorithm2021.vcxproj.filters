@@ -60,5 +60,8 @@
     <ClCompile Include="가비아2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="네이버경력1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
