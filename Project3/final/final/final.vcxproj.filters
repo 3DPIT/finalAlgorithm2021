@@ -18,5 +18,14 @@
     <ClCompile Include="15684 사다리조작.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="16236 아기상어.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="15685 드래곤 커브.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="16235 나무제태크.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

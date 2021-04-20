@@ -1,2 +1,12 @@
-﻿  15684 사다리조작.cpp
+﻿  16235 나무제태크.cpp
+c:\users\oksos\desktop\알고리즘\project3\final\final\16235 나무제태크.cpp(28): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\oksos\desktop\알고리즘\project3\final\final\16235 나무제태크.cpp(45): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\oksos\desktop\알고리즘\project3\final\final\16235 나무제태크.cpp(48): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\oksos\desktop\알고리즘\project3\final\final\16235 나무제태크.cpp(52): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\oksos\desktop\알고리즘\project3\final\final\16235 나무제태크.cpp(60): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\oksos\desktop\알고리즘\project3\final\final\16235 나무제태크.cpp(86): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
   final.vcxproj -> C:\Users\oksos\Desktop\알고리즘\Project3\final\Debug\final.exe
